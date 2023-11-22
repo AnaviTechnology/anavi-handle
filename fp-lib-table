@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "xiao")(type "KiCad")(uri "${KIPRJMOD}/components/xiao")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/components/logo.pretty")(options "")(descr ""))
+  (lib (name "handle")(type "KiCad")(uri "${KIPRJMOD}/components/handle")(options "")(descr ""))
+)
