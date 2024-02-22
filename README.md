@@ -1,10 +1,12 @@
 # ANAVI Handle
 
-**Open source adapter for Wii Nunchuk Controller**
+**Open source USB adapter for connecting Wii Nunchuk Controller to a computer**
 
-ANAVI Handle is an adapter with USB-C and Raspberry Pi RP2040 microcontroller that converts Wii Nunchuk and compatible controller into a computer mouse or a keyboard.
+ANAVI Handle lets you easily connect Nintendo Wii Nunchuk-compatible controller to any USB-equipped personal computer (PC). It is equipped with [Seeed Studio’s XIAO RP2040 module](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html?utm_source=github&utm_medium=ANAVI&utm_campaign=Handle) that provides a USB-C connector and a Raspberry Pi RP2040 microcontroller.
 
 ANAVI Handle has been designed with [the cross platform and open source electronics design automation suite KiCad](https://kicad.org/).
+
+[Stay tuned for the upcoming crowdfunding campaign of ANAVI Handle on Crowd Supply. Subscribe now to receive notifications about news and stock updates.](https://www.crowdsupply.com/anavi-technology/anavi-handle). For more details please visit https://anavi.technology/
 
 # License
 
