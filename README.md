@@ -8,6 +8,10 @@ ANAVI Handle has been designed with [the cross platform and open source electron
 
 [Stay tuned for the upcoming crowdfunding campaign of ANAVI Handle on Crowd Supply. Subscribe now to receive notifications about news and stock updates.](https://www.crowdsupply.com/anavi-technology/anavi-handle). For more details please visit https://anavi.technology/
 
+# Firmware
+
+The [ANAVI Handle open source firmware](https://github.com/anaviTechnology/anavi-handle-sw) written in CircuitPython offers customization options to easily convert the Wii Nunchuk compatible controller into a Human Interface Device (HID) such as a joystick, mouse, or keyboard. With ANAVI Handle, gaming enthusiasts can elevate their retro gaming setup to new heights, combining classic game controllers with the freedom of open source hardware.
+
 # License
 
 The project is released under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
